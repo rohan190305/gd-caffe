@@ -43,7 +43,7 @@ const menuItems = [
     title: 'Dipono coffee',
     description: 'Espresso with steamed milk and a layer of foam.',
     price: '₹150',
-    image: '/t6.jpg',
+    image: '/t1.jpg',
   },
    {
     title: 'Cappuccino',
