@@ -15,12 +15,7 @@ const Header = ({ activeSection, scrollToSection }) => {
     <header className="fixed top-0 w-full bg-gradient-to-r from-amber-100/95 to-orange-100/95 backdrop-blur-sm border-b border-amber-200 z-50 shadow-sm">
       <nav className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
-          <div className="flex items-center space-x-2">
-            <img
-              src="/jd logo.png"
-              alt="JDS Cafe Logo"
-              className="h-18 w-23 object-contain"
-            />
+          <div className="flex items-center">
             <h1 className="text-2xl font-bold text-amber-900">JD's Cafe</h1>
           </div>
           <div className="hidden md:flex space-x-8">
